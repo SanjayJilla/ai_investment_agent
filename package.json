@@ -1,0 +1,27 @@
+{
+  "name": "investment-agent",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@langchain/core": "^0.3.1",
+    "@langchain/langgraph": "^0.2.3",
+    "@langchain/openai": "^0.3.0",
+    "@tavily/core": "^0.0.3",
+    "next": "14.2.5",
+    "openai": "^4.52.7",
+    "react": "^18",
+    "react-dom": "^18",
+    "yahoo-finance2": "2.11.3",
+    "zod": "^3.23.8"
+  },
+  "devDependencies": {
+    "eslint": "^8",
+    "eslint-config-next": "14.2.5"
+  }
+}
