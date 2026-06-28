@@ -1,6 +1,7 @@
-# InvestIQ — AI-Powered Investment Research Agent
+# InvestBuddy — AI-Powered Investment Research Agent
 
 A **multi-agent AI investment research platform** that takes a company name, executes a 5-stage agentic workflow, and outputs a clear **INVEST** or **PASS** decision.
+
 
 ---
 
