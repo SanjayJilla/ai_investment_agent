@@ -36,3 +36,8 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Interview / Deploy Guides (stay local, not on GitHub)
+DEPLOY_GUIDE.md
+PROJECT_GUIDE.md
+
